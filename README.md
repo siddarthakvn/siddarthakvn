@@ -30,12 +30,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddarthakvn&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=siddarthakvn&theme=dark&hide_border=false" height="165" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddarthakvn&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddarthakvn&theme=dark&hide_border=true" height="165" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddarthakvn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddarthakvn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ---
