@@ -11,7 +11,7 @@
 ⚡ Fun fact: I enjoy building intelligent robotic systems — from PCB design to simulation to real-world deployment 🤖🚀
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddartha-kvns) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23211a04b5@bvrit.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddartha-kvns-9a115b293)
 
 ## 💻 Tech Stack
 
